@@ -10,6 +10,9 @@ This project shows two ways to store and display data in Unity: **Scriptable Obj
 **Overview:**  
 Scriptable Objects allow you to store data as an asset, independent of scene objects. Here we use `Playerdata` to store player info.
 
+<img width="782" height="458" alt="image" src="https://github.com/user-attachments/assets/8e805fb1-c8fd-4c06-b2b4-35e243db80e8" />
+
+
 
 <img width="796" height="188" alt="image" src="https://github.com/user-attachments/assets/2cd2c485-27b4-4489-8f29-447f3bb08831" />
 
