@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class PlayerControl : MonoBehaviour
 {
-    public Playerdata playerData; // Assign in Inspector
+    public Playerdata playerData;
     public Text playerNameText;
     public Text scoreText;
     public Text healthText;
